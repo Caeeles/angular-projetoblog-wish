@@ -12,12 +12,14 @@
   width: 200px;
   min-width: 200px;
   margin-right: 20px;
+  box-shadow: 10px 10px 5px lightblue
 }
 
 .small-card__title {
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: 70%;
 }
 
 .small-card__title > h1 > a{
